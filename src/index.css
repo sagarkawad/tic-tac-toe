@@ -90,11 +90,11 @@ h2 {
 }
 
 #players button {
-  width: 3rem;
+  /* width: 3rem; */
   border: none;
   background: none;
   color: #c3ba78;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   cursor: pointer;
   transition: color 0.2s;
   padding: 0.5rem 0.25rem 0.25rem 0.25rem;
@@ -115,7 +115,7 @@ h2 {
 .player-name {
   display: inline-block;
   /* width: 10rem; */
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: #e1dec7;
   text-transform: uppercase;
   margin: 0;
@@ -139,7 +139,7 @@ h2 {
 
 .player-symbol {
   /* margin-left: 1rem; */
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   color: #e1dec7;
   margin-top: 1rem;
 }
